@@ -1,0 +1,9 @@
+main: net.survivalcore.diamondgenerator.Main
+name: DiamondGenerator
+author: gibsam
+version: 1.0
+api-version: 1.17
+commands:
+  dg:
+   aliases: []
+   description: diamond generator commands
